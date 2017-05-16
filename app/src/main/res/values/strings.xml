@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BarcodeDetect</string>
+    <string name="action_settings">Sair</string>
+    <string name="action_camera_api">Camera API</string>
+    <string name="msg_codigo_recuperado">Código recuperado</string>
+    <string name="title_activity_android_camera_api">AndroidCameraApi</string>
+</resources>
